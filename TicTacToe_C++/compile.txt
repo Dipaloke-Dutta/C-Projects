@@ -1,0 +1,3 @@
+Compile with: 
+g++ -o Tic_Tac_Toe Tic_Tac_Toe.cpp
+./Tic_Tac_Toe
